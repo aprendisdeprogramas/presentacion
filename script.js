@@ -1,7 +1,7 @@
 var imagenesFondo = [
   "img/img4.png",
   "img/img5.png",
-  "img/img6.png"
+  "img/img8.png"
   // etc.
 ];
 
